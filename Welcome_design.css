@@ -1,0 +1,56 @@
+@charset "ISO-8859-1";
+body{
+	margin:0;
+}
+#heading{
+	padding:10px;
+	background-color: blue;
+	color:white;
+}
+#heading h1{
+	margin-top:2px;
+	font-size:50px;
+	text-align:left;
+	width:70%;
+}
+#heading h2{
+	text-align:right;
+}
+#heading #lgout
+{
+	margin-left:1280px;
+}
+
+img{
+	height:50px;
+	width:50px;
+}
+#addnote #add
+{
+	position: fixed;
+    
+    bottom: 20px;
+    right: 20px;
+}
+
+.nbcwrap{
+	background-color:#ee7;
+	margin:20px;
+}
+.nbcwrap .nbc {
+	border-bottom: 1px solid #333;
+	    padding: 10px;
+}
+.nbcwrap .nbc .nbc-lf {
+	float: left;
+	font-size: 32px;
+	width: 20%;
+}
+.nbcwrap .nbc .nbc-rh {
+	float: left;
+	width: 60%;
+}
+
+.clear {
+	clear:both;
+}

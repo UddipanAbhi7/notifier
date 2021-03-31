@@ -1,0 +1,17 @@
+body{
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #eee;
+	color: white;
+}
+#log{
+	margin:150px 500px 150px 500px;
+	border:1px black solid;
+	text-align: center;
+	background-color: #986;
+	color:white;
+	padding-bottom: 50px;
+}
+button:hover{
+	color: #333;
+}
